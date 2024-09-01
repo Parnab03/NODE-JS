@@ -1,1 +1,1 @@
-{"name":"Parnab Bagchi","age":21,"work":"Manager","mobile":1231231234,"email":"Parnabbagchi@gmail.com","address":"101 River Road, Boston, MA","salary":85000}
+{"name":"Soumik Ghosh","age":20,"work":"Manager","mobile":1234567890,"email":"soumik@gmail.com","address":"Purbapara, Madanpur, Nadia, West Bengal","salary":30000,"username":"soumik","password":"soumik"}

@@ -1,1 +1,0 @@
-{"name":"Soumik Ghosh","age":20,"work":"Manager","mobile":1234567890,"email":"soumik@gmail.com","address":"Purbapara, Madanpur, Nadia, West Bengal","salary":30000,"username":"soumik","password":"soumik"}
